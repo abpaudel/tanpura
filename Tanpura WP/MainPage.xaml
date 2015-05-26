@@ -1,0 +1,54 @@
+﻿<Page
+    x:Class="Tanpura_WP.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Tanpura_WP"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush Stretch="UniformToFill" ImageSource="Assets/kaushiki.jpg"/>
+        </Grid.Background>
+        <ComboBox x:Name="key" HorizontalAlignment="Left" Height="63" Margin="38,230,0,0" VerticalAlignment="Top" Width="149" PlaceholderText="" SelectedIndex="7" FontSize="36" SelectionChanged="key_SelectionChanged" Background="#FF5B2EC5">
+            <ComboBoxItem Content=".A"/>
+            <ComboBoxItem Content=".A#"/>
+            <ComboBoxItem Content=".B"/>
+            <ComboBoxItem Content="C"/>
+            <ComboBoxItem Content="C#"/>
+            <ComboBoxItem Content="D"/>
+            <ComboBoxItem Content="D#"/>
+            <ComboBoxItem Content="E" IsSelected="True"/>
+            <ComboBoxItem Content="F"/>
+            <ComboBoxItem Content="F#"/>
+            <ComboBoxItem Content="G"/>
+            <ComboBoxItem Content="G#"/>
+            <ComboBoxItem Content="A"/>
+            <ComboBoxItem Content="A#"/>
+            <ComboBoxItem Content="B"/>
+        </ComboBox>
+        <MediaElement x:Name="_aa" HorizontalAlignment="Left" Height="30" Margin="30,676,0,0" VerticalAlignment="Top" Width="30" Source="Assets/1_A.mp3" IsLooping="True" AutoPlay="False"/>
+        <MediaElement x:Name="_ash" HorizontalAlignment="Left" Height="30" Margin="60,676,0,0" VerticalAlignment="Top" Width="30" Source="Assets/2_ASH.mp3" IsLooping="True" AutoPlay="False"/>
+        <MediaElement x:Name="_b" HorizontalAlignment="Left" Height="30" Margin="90,676,0,0" VerticalAlignment="Top" Width="30" Source="Assets/3_B.mp3" IsLooping="True" AutoPlay="False"/>
+        <MediaElement x:Name="c" HorizontalAlignment="Left" Height="30" Margin="120,676,0,0" VerticalAlignment="Top" Width="30" Source="Assets/4.C.mp3" IsLooping="True" AutoPlay="False"/>
+        <MediaElement x:Name="cs" HorizontalAlignment="Left" Height="30" Margin="150,676,0,0" VerticalAlignment="Top" Width="30" Source="Assets/5.CSH.mp3" IsLooping="True" AutoPlay="False"/>
+        <MediaElement x:Name="d" HorizontalAlignment="Left" Height="30" Margin="180,676,0,0" VerticalAlignment="Top" Width="30" Source="Assets/6.D.mp3" IsLooping="True" AutoPlay="False"/>
+        <MediaElement x:Name="ds" HorizontalAlignment="Left" Height="30" Margin="210,676,0,0" VerticalAlignment="Top" Width="30" Source="Assets/7.DSH.mp3" IsLooping="True" AutoPlay="False"/>
+        <MediaElement x:Name="ee" HorizontalAlignment="Left" Height="30" Margin="240,676,0,0" VerticalAlignment="Top" Width="30" Source="Assets/8.E.mp3" IsLooping="True" AutoPlay="False"/>
+        <MediaElement x:Name="f" HorizontalAlignment="Left" Height="30" Margin="280,676,0,0" VerticalAlignment="Top" Width="30" Source="Assets/9.F.mp3" IsLooping="True" AutoPlay="False"/>
+        <MediaElement x:Name="fs" HorizontalAlignment="Left" Height="30" Margin="300,676,0,0" VerticalAlignment="Top" Width="30" Source="Assets/10.FSH.mp3" IsLooping="True" AutoPlay="False"/>
+        <MediaElement x:Name="g" HorizontalAlignment="Left" Height="30" Margin="330,676,0,0" VerticalAlignment="Top" Width="30" Source="Assets/11.G.mp3" IsLooping="True" AutoPlay="False"/>
+        <MediaElement x:Name="gs" HorizontalAlignment="Left" Height="30" Margin="360,676,0,0" VerticalAlignment="Top" Width="30" Source="Assets/12.GSH.mp3" IsLooping="True" AutoPlay="False"/>
+        <MediaElement x:Name="aa" HorizontalAlignment="Left" Height="30" Margin="390,676,0,0" VerticalAlignment="Top" Width="30" Source="Assets/13.A.mp3" IsLooping="True" AutoPlay="False"/>
+        <MediaElement x:Name="ash" HorizontalAlignment="Left" Height="30" Margin="420,676,0,0" VerticalAlignment="Top" Width="30" Source="Assets/14.ASH.mp3" IsLooping="True" AutoPlay="False"/>
+        <MediaElement x:Name="b" HorizontalAlignment="Left" Height="30" Margin="450,676,0,0" VerticalAlignment="Top" Width="30" Source="Assets/15.B.mp3" IsLooping="True" AutoPlay="False"/>
+        <Slider x:Name="volume" HorizontalAlignment="Left" Height="50" Margin="38,356,0,0" VerticalAlignment="Top" Width="270" Background="#29FFFFFF" Foreground="#FF5B2EC5" Value="6" ValueChanged="volume_ValueChanged" Maximum="10" LargeChange="1"/>
+        <Button x:Name="playbut" Content="Play" HorizontalAlignment="Left" Height="62" Margin="34,430,0,0" VerticalAlignment="Top" Width="130" FontSize="24" BorderBrush="Transparent" Background="#FF259C1F" Click="playbut_Click"/>
+        <Button x:Name="stopbut" Content="Stop" HorizontalAlignment="Left" Height="58" Margin="192,433,0,0" VerticalAlignment="Top" Width="120" FontSize="24" BorderBrush="Transparent" Background="#FFD35631" Click="stopbut_Click"/>
+        <HyperlinkButton Content="Visit us at http://apaudel.com.np/tanpura" HorizontalAlignment="Left" Height="48" Margin="-33,546,-28,0" VerticalAlignment="Top" Width="461" Foreground="White" FontSize="20" NavigateUri="http://apaudel.com.np/tanpura"/>
+
+
+    </Grid>
+</Page>

@@ -1,0 +1,32 @@
+D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\bin\Release\App.xbf
+D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\bin\Release\MainPage.xbf
+D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\bin\Release\Tanpura WP.xr.xml
+D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\bin\Release\Tanpura WP.exe
+D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\bin\Release\Tanpura WP.pdb
+D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\bin\Release\resources.pri
+D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\bin\Release\AppxManifest.xml
+D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\bin\Release\Tanpura WP.build.appxrecipe
+D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\obj\Release\App.g.i.cs
+D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\obj\Release\App.g.cs
+D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\obj\Release\MainPage.g.i.cs
+D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\obj\Release\MainPage.g.cs
+D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\obj\Release\XamlTypeInfo.g.cs
+D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\obj\Release\App.xaml
+D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\obj\Release\MainPage.xaml
+D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\obj\Release\App.xbf
+D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\obj\Release\MainPage.xbf
+D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\obj\Release\XamlSaveStateFile.xml
+D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\obj\Release\Tanpura WP.exe
+D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\obj\Release\Tanpura WP.pdb
+D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\obj\Release\priconfig.xml
+D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\obj\Release\priconfig.xml.intermediate
+D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\obj\Release\layout.resfiles
+D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\obj\Release\layout.resfiles.intermediate
+D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\obj\Release\resources.resfiles
+D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\obj\Release\resources.resfiles.intermediate
+D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\obj\Release\pri.resfiles
+D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\obj\Release\pri.resfiles.intermediate
+D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\obj\Release\qualifiers.txt
+D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\obj\Release\qualifiers.txt.intermediate
+D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\obj\Release\MultipleQualifiersPerDimensionFound.txt
+D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\obj\Release\ProjectArchitectures.txt

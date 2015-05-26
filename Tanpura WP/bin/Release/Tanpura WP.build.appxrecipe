@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MYHEARTSWIFT-PC</Machine>
+    <WindowsUser>myheartswift</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>bdb9047b-37b6-4483-a5ec-4e04f8dcafc1</PackageIdentityName>
+    <IntermediateOutputPath>D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\obj\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\bin\Release\Tanpura WP.exe">
+      <PackagePath>Tanpura WP.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\Assets\10.FSH.mp3">
+      <PackagePath>Assets\10.FSH.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\Assets\11.G.mp3">
+      <PackagePath>Assets\11.G.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\Assets\12.GSH.mp3">
+      <PackagePath>Assets\12.GSH.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\Assets\13.A.mp3">
+      <PackagePath>Assets\13.A.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\Assets\14.ASH.mp3">
+      <PackagePath>Assets\14.ASH.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\Assets\15.B.mp3">
+      <PackagePath>Assets\15.B.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\Assets\1_A.mp3">
+      <PackagePath>Assets\1_A.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\Assets\2_ASH.mp3">
+      <PackagePath>Assets\2_ASH.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\Assets\3_B.mp3">
+      <PackagePath>Assets\3_B.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\Assets\4.C.mp3">
+      <PackagePath>Assets\4.C.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\Assets\5.CSH.mp3">
+      <PackagePath>Assets\5.CSH.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\Assets\6.D.mp3">
+      <PackagePath>Assets\6.D.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\Assets\7.DSH.mp3">
+      <PackagePath>Assets\7.DSH.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\Assets\8.E.mp3">
+      <PackagePath>Assets\8.E.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\Assets\9.F.mp3">
+      <PackagePath>Assets\9.F.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\Assets\kaushiki.jpg">
+      <PackagePath>Assets\kaushiki.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\Assets\Square150x150Logo.scale-100.png">
+      <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\Assets\Square150x150Logo.scale-240.png">
+      <PackagePath>Assets\Square150x150Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\bin\Release\Tanpura WP.xr.xml">
+      <PackagePath>Tanpura WP.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

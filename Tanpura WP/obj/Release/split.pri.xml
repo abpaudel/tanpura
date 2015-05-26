@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="44768AbhishekPaudel.Tanpura" version="1.0" primary="true">
+		<Qualifiers>
+			<Scale>240</Scale>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://44768AbhishekPaudel.Tanpura/Files/App.xbf">
+				<Candidate type="Path">
+					<Value>App.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://44768AbhishekPaudel.Tanpura/Files/MainPage.xbf">
+				<Candidate type="Path">
+					<Value>MainPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Tanpura WP.xr.xml" uri="ms-resource://44768AbhishekPaudel.Tanpura/Files/Tanpura%20WP.xr.xml">
+				<Candidate type="Path">
+					<Value>Tanpura WP.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="10.FSH.mp3" uri="ms-resource://44768AbhishekPaudel.Tanpura/Files/Assets/10.FSH.mp3">
+					<Candidate type="Path">
+						<Value>Assets\10.FSH.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="11.G.mp3" uri="ms-resource://44768AbhishekPaudel.Tanpura/Files/Assets/11.G.mp3">
+					<Candidate type="Path">
+						<Value>Assets\11.G.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="12.GSH.mp3" uri="ms-resource://44768AbhishekPaudel.Tanpura/Files/Assets/12.GSH.mp3">
+					<Candidate type="Path">
+						<Value>Assets\12.GSH.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="13.A.mp3" uri="ms-resource://44768AbhishekPaudel.Tanpura/Files/Assets/13.A.mp3">
+					<Candidate type="Path">
+						<Value>Assets\13.A.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="14.ASH.mp3" uri="ms-resource://44768AbhishekPaudel.Tanpura/Files/Assets/14.ASH.mp3">
+					<Candidate type="Path">
+						<Value>Assets\14.ASH.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="15.B.mp3" uri="ms-resource://44768AbhishekPaudel.Tanpura/Files/Assets/15.B.mp3">
+					<Candidate type="Path">
+						<Value>Assets\15.B.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="1_A.mp3" uri="ms-resource://44768AbhishekPaudel.Tanpura/Files/Assets/1_A.mp3">
+					<Candidate type="Path">
+						<Value>Assets\1_A.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="2_ASH.mp3" uri="ms-resource://44768AbhishekPaudel.Tanpura/Files/Assets/2_ASH.mp3">
+					<Candidate type="Path">
+						<Value>Assets\2_ASH.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="3_B.mp3" uri="ms-resource://44768AbhishekPaudel.Tanpura/Files/Assets/3_B.mp3">
+					<Candidate type="Path">
+						<Value>Assets\3_B.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="4.C.mp3" uri="ms-resource://44768AbhishekPaudel.Tanpura/Files/Assets/4.C.mp3">
+					<Candidate type="Path">
+						<Value>Assets\4.C.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="5.CSH.mp3" uri="ms-resource://44768AbhishekPaudel.Tanpura/Files/Assets/5.CSH.mp3">
+					<Candidate type="Path">
+						<Value>Assets\5.CSH.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="6.D.mp3" uri="ms-resource://44768AbhishekPaudel.Tanpura/Files/Assets/6.D.mp3">
+					<Candidate type="Path">
+						<Value>Assets\6.D.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="7.DSH.mp3" uri="ms-resource://44768AbhishekPaudel.Tanpura/Files/Assets/7.DSH.mp3">
+					<Candidate type="Path">
+						<Value>Assets\7.DSH.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="8.E.mp3" uri="ms-resource://44768AbhishekPaudel.Tanpura/Files/Assets/8.E.mp3">
+					<Candidate type="Path">
+						<Value>Assets\8.E.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="9.F.mp3" uri="ms-resource://44768AbhishekPaudel.Tanpura/Files/Assets/9.F.mp3">
+					<Candidate type="Path">
+						<Value>Assets\9.F.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="kaushiki.jpg" uri="ms-resource://44768AbhishekPaudel.Tanpura/Files/Assets/kaushiki.jpg">
+					<Candidate type="Path">
+						<Value>Assets\kaushiki.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Logo.png" uri="ms-resource://44768AbhishekPaudel.Tanpura/Files/Assets/Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SmallLogo.png" uri="ms-resource://44768AbhishekPaudel.Tanpura/Files/Assets/SmallLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://44768AbhishekPaudel.Tanpura/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://44768AbhishekPaudel.Tanpura/Files/Assets/Square150x150Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\Square150x150Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square71x71Logo.png" uri="ms-resource://44768AbhishekPaudel.Tanpura/Files/Assets/Square71x71Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\Square71x71Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://44768AbhishekPaudel.Tanpura/Files/Assets/StoreLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\StoreLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://44768AbhishekPaudel.Tanpura/Files/Assets/Wide310x150Logo.png"/>
+				<NamedResource name="WideLogo.png" uri="ms-resource://44768AbhishekPaudel.Tanpura/Files/Assets/WideLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\WideLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

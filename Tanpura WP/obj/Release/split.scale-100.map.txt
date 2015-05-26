@@ -1,0 +1,9 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.scale-100"
+"ResourceDimensions"		"scale-100"
+
+[Files]
+"D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\obj\Release\split.scale-100.pri"			"resources.pri"
+"D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\obj\Release\PackageLayout\Assets\Wide310x150Logo.scale-100.png"			"Assets\Wide310x150Logo.scale-100.png"
+"D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\obj\Release\PackageLayout\Assets\Square150x150Logo.scale-100.png"			"Assets\Square150x150Logo.scale-100.png"
+"D:\Documents\Visual Studio 2013\Projects\Tanpura WP\Tanpura WP\obj\Release\PackageLayout\Assets\Logo.scale-100.png"			"Assets\Logo.scale-100.png"
